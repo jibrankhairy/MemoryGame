@@ -8,7 +8,7 @@ const Header = () => {
           <img src={Icon} alt="Puzzle-icon" className="w-10 md:w-12 mt-3" />
         </div>
         <span className="text-2xl mt-3 md:text-3xl sm:text-4xl lg:text-4xl font-semibold font-serif uppercase transform hover:scale-110 transition duration-300 cursor-pointer">
-          Memory Game
+          Memory Match
         </span>
       </div>
     </header>
